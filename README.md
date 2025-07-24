@@ -61,6 +61,13 @@ This project implements, in Java, algorithms for image compression and reconstru
 
 Project developed for the curricular unit LAPR1 (2024/2025).
 
+This project was developed with the collaboration of the following team:
+- [André Pinho](https://github.com/AndreSiPinho)  
+- [Carlota Lemos](https://github.com/1241330) 
+- [Eduardo Almeida](https://github.com/EduardoAlmeida-1241418)  
+- [Mara Santos](https://github.com/1241452)
+
+
 ## Licence
 
 This project is licensed under the MIT licence. See the LICENSE file for more details.
